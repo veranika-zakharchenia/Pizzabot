@@ -35,3 +35,8 @@ Quotation marks are required
 Example of **args**: `"5x5 (1, 3) (4, 4)"`
 ### Output
 `ENNNDEEEND`
+
+## How to run tests:
+1. Open the terminal in the project folder
+2. Run `pip3 install requirements.txt`
+3. Run `pytest tests/`
