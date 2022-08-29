@@ -16,7 +16,7 @@ As with a Cartesian plane, this point lies at the most
 south-westerly point of the grid. After reaching each point 
 the bot "drops" the pizza.
 
-For the following description please see the PDF.
+For the following description please see the [PDF](ICO-TechTest-20201101-Branding-CodeChallenge-final.pdf).
 ## Requirements:
 Python 3
 
