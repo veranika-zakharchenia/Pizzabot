@@ -1,6 +1,6 @@
 import pytest
 
-from pizzabot.agrument_processor import ArgumentProcessor
+from pizzabot.argument_processor import ArgumentProcessor
 from pizzabot.point import Point
 
 
