@@ -1,6 +1,6 @@
 import sys
 
-from pizzabot.agrument_processor import ArgumentProcessor
+from pizzabot.argument_processor import ArgumentProcessor
 from pizzabot.delivery import Delivery
 
 if __name__ == "__main__":
