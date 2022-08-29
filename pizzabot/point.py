@@ -6,3 +6,7 @@ class Point:
     def __iter__(self):
         yield self.x, self.y
 
+    def __eq__(self, other):
+        if isinstance(self, other.__class__):
+            return self.x == other.x and self.y == other.y
+        return False
