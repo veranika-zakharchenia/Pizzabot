@@ -16,5 +16,7 @@ if __name__ == "__main__":
         print(path)
     except AttributeError as error:
         print(f'Attribute error: {error}')
+    except ValueError as error:
+        print(f'Value error: {error}')
     except Exception as error:
         print(f'Unexpected error: {error}')
